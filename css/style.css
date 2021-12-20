@@ -1,4 +1,17 @@
 
+.container{padding-top:0px;}
+h3 {margin-bottom:0px !important}
+p {margin:0;}
+article {margin-top:1em;}
+header{padding:10% 0}
+
+article header{
+    margin-bottom:1em;
+}
+article footer{
+    margin-top:1em;
+}
+
 .logo {
     width: 240px;
     height: 61px;
